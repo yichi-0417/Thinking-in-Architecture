@@ -27,7 +27,7 @@ A familiar AWS presentation often begins with a customer challenge, introduces t
 
 <br/>
 
- **Trend
+- **Trend
    → AWS interpretation
    → Problem reframing
    → Engineering principle
@@ -53,7 +53,7 @@ This suggests a distinction that I find increasingly important:
 
 <br/>
 
- **Execution correctness ≠ Representation alignment**
+- **Execution correctness ≠ Representation alignment**
 
 <br/>
 
@@ -82,7 +82,7 @@ My initial interpretation was that the four sessions represented four conditions
 
 <br/>
 
-**Operate + Monetize + Transform + Trust**
+- **Operate + Monetize + Transform + Trust**
 
 <br/>
 
@@ -100,7 +100,7 @@ The connection became clearer when I reconsidered the progression from Prompt to
 
 <br/>
 
-**Intent
+- **Intent
 → Representation
 → Constrained Action
 → Feedback
@@ -119,7 +119,7 @@ The challenge is therefore not only execution correctness. It is what I would de
 
 <br/>
 
-*Can a system maintain alignment with human or organizational intent as that intent is interpreted, refined, authorized, executed, and ultimately translated into an outcome?*
+- *Can a system maintain alignment with human or organizational intent as that intent is interpreted, refined, authorized, executed, and ultimately translated into an outcome?*
 
 <br/>
 
@@ -145,7 +145,7 @@ The common thread was therefore not AI alone. It was the integrity of the comple
 
 <br/>
 
-**Understand the intent
+- **Understand the intent
 → Represent it accurately
 → Execute within constraints
 → Observe and correct
@@ -157,6 +157,6 @@ This is not a framework presented by AWS. It is the structure I reconstructed wh
 
 <br/>
 
-**Enterprise Agentic AI = Operate + Monetize + Transform + Trust
+- **Enterprise Agentic AI = Operate + Monetize + Transform + Trust
    All four contribute to
    Intent-to-Outcome Integrity**
